@@ -11,7 +11,7 @@
 #define RGB_MATRIX_DEFAULT_MODE RGB_MATRIX_CYCLE_PINWHEEL
 
 //#define TT Layer
-#define TAPPING_TOGGLE 2
+//#define TAPPING_TOGGLE 2
 
 /* Bootmagic Lite key configuration */
 #define BOOTMAGIC_LITE_ROW 0
