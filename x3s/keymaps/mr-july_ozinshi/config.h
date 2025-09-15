@@ -44,3 +44,5 @@ K20,   K21,   K22,   K23,   K24,     KC_NO,      K25,   K26,   K27,   K28,   K29
 KC_NO, KC_NO, K3L,   K3C,   KC_NO,   KC_NO,      KC_NO, K3C,   K3R,   KC_NO, KC_NO\
 )
 #endif
+
+#define OZINSHI_ENABLE_RGB_LAYER_INDICATION
